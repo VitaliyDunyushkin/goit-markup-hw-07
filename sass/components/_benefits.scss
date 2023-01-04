@@ -1,0 +1,35 @@
+.our-benefits {
+    padding: 94px 0;
+}
+
+.our-benefits__header {
+    font-weight: 700;
+    line-height: 1.14;
+    text-transform: uppercase;
+    color: var(--second-color);
+    margin-bottom: 10px;
+}
+
+.our-benefits__list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.our-benefits__item {
+    width: 270px;
+}
+
+.our-benefits__box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px 0;
+    background-color: var(--bckgd-color);
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
+
+.our-benefits__icon {
+    width: 70px;
+    height: 70px;
+}
